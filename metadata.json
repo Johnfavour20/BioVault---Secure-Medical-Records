@@ -1,0 +1,5 @@
+{
+  "name": "BioVault - Secure Medical Records",
+  "description": "A hackathon prototype of BioVault, a decentralized application for securely storing and sharing medical records using blockchain technology.",
+  "requestFramePermissions": []
+}
